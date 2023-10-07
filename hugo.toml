@@ -3,5 +3,45 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-blog-awesome"
 
+[menu]
+
+[[menu.main]]
+pageRef = "/"
+name = 'Home'
+url = '/'
+weight = 10
+
+[[menu.main]]
+pageRef = "posts"
+name = 'Posts'
+url = '/posts/'
+weight = 20
+
+[[menu.main]]
+pageRef = "about"
+name = 'About'
+url = '/about/'
+weight = 30
+
 [params]
 dateFormat = "January 2, 2006"
+toc = true
+goToTop = true
+
+[params.author]
+avatar = "avatar.jpg"
+intro = "Hello, I'm Alan Lal"
+name = "Alan Lal"
+description = "This is mostly a digital journal of my ramblings and the things I learn"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/hugo-sid"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
