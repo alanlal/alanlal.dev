@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Alan Lal'
 theme = "hugo-blog-awesome"
 
 [menu]
@@ -36,12 +36,12 @@ description = "This is mostly a digital journal of my ramblings and the things I
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/alanlal"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "linkedin"
+url = "https://www.linkedin.com/in/alan-lal/"
 
 [[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
+name = "email"
+url = "mailto:hello@alanlal.dev"
