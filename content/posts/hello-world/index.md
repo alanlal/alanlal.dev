@@ -5,7 +5,7 @@ toc: false
 ---
 
 Hi,
-I've been meaning to start a blog for a long time. I believe that writing down the things I learn on a daily basis will help me remember them more easily and provide others with something to read. It will also force me to think about ideas and articulate them, rather than just vaguely considering them as concepts.
+I've been meaning to start a blog for a long time. I believe that writing down the things I learn on a daily basis will help me remember them more easily and provide others with something to read. It will also force me to think about ideas and articulate them, rather than just keeping it in my head.
 
 This is my third attempt at starting a blog. The first attempt was on Medium, but I felt that I wanted my own space to present my thoughts. The second attempt involved creating a Next.js blog template from scratch, but it turned out to be more work than I had anticipated. I was spending more time polishing the blog's backend code than actually posting content. It gave me a false sense of achievement, even though I was really just procrastinating. 🙇🏻
 
